@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire
+  - Gib
+  - Ground
+  - Enemy
+  - EnemyBullet
+  - Box
+  - BossPlat
+  - Boss
+  - Weapon
+  - Sprites
+  - Revolver
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Wall
+  - Bullet
+  - Enemy Bullet
+  - Enemy
+  - Player
+  - Gib
+  - Background
+  - Blood
+  - Player Wall
+  - Loot
+  - Chest
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Particles
+    uniqueID: 3486167109
+    locked: 0
+  - name: Background
+    uniqueID: 471637563
+    locked: 0
+  - name: Enemies
+    uniqueID: 863870783
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Gibs
+    uniqueID: 4219525413
+    locked: 0
+  - name: Player
+    uniqueID: 2213500137
+    locked: 0
+  - name: Foreground
+    uniqueID: 4208167
+    locked: 0
